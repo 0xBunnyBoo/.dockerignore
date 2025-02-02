@@ -1,1 +1,12 @@
-# .dockerignore
+**/node_modules
+doc
+.git
+**/.next
+packages/starknet-connector/build
+**/dist
+**/.DS_Store
+docs
+Dockerfile
+*.log
+.vscode
+terraform
